@@ -32,14 +32,14 @@
     [
         "C:\\Program Files\\sfdx\\bin\\geolocation\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Program Files\\sfdx\\bin\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1523104909591,
             "changeTime": 1523104909591,
-            "contentHash": "0b1d9a10b2767ed9955de7b0f7a99c8b50385124"
+            "contentHash": "0b1d9a10b2767ed9955de7b0f7a99c8b50385124",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -270,14 +270,14 @@
     [
         "C:\\Program Files\\sfdx\\bin\\geolocation\\force-app\\main\\default\\objects\\Case\\businessProcesses",
         {
+            "state": "u",
             "sourcePath": "C:\\Program Files\\sfdx\\bin\\geolocation\\force-app\\main\\default\\objects\\Case\\businessProcesses",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1523104619661,
-            "changeTime": 1523104619661,
-            "contentHash": "30d567ff1c4e7bb6895da5db92120e31455eed35",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1523105070400,
+            "changeTime": 1523105070400,
+            "contentHash": "18c596038c17287aa348f94358b23c4d0c2c5a6e"
         }
     ],
     [
@@ -296,27 +296,40 @@
     [
         "C:\\Program Files\\sfdx\\bin\\geolocation\\force-app\\main\\default\\standardValueSets\\CaseStatus.standardValueSet-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Program Files\\sfdx\\bin\\geolocation\\force-app\\main\\default\\standardValueSets\\CaseStatus.standardValueSet-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1195,
             "modifiedTime": 1523104909599,
             "changeTime": 1523104909599,
-            "contentHash": "06a7c79347c30781ec54121ce4fea9e014792dea"
+            "contentHash": "06a7c79347c30781ec54121ce4fea9e014792dea",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Program Files\\sfdx\\bin\\geolocation\\force-app\\main\\default\\standardValueSets",
         {
-            "state": "u",
             "sourcePath": "C:\\Program Files\\sfdx\\bin\\geolocation\\force-app\\main\\default\\standardValueSets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1523104909598,
             "changeTime": 1523104909598,
-            "contentHash": "4ae5b3a1859bd419ef3a85f426aacd9abe028400"
+            "contentHash": "4ae5b3a1859bd419ef3a85f426aacd9abe028400",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Program Files\\sfdx\\bin\\geolocation\\force-app\\main\\default\\objects\\Case\\businessProcesses\\Test123.businessProcess-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Program Files\\sfdx\\bin\\geolocation\\force-app\\main\\default\\objects\\Case\\businessProcesses\\Test123.businessProcess-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 771,
+            "modifiedTime": 1523105070401,
+            "changeTime": 1523105070401,
+            "contentHash": "46ebc06ce7c5cded50288369252059447edcfaed"
         }
     ]
 ]
